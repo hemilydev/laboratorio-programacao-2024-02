@@ -25,8 +25,19 @@ A disciplina tem como objetivo desenvolver a lógica de programação e introduz
 ---
 
 ### 📅 Curso e Instituição
+
 - Curso: Análise e Desenvolvimento de Sistemas (ADS)
 - Disciplina: Laboratório de Programação
 - Instituição: Pontifícia Universidade Católica de Goiás
 - Professor: Leonardo Guerra de Rezende Guedes
 - Período: 2º semestre de 2024
+
+---
+
+- ### 📝 Atividades Realizadas
+
+- **PBL 01**: System.Out.Println & concatenação de variáveis
+- **PBL 02**: Introdução às estruturas condicionais
+- **PBL 03**: Laços de repetição e manipulação de arrays
+- **PBL 04**: Modularização e criação de métodos
+- **Projeto Final**: Desenvolvimento de uma aplicação utilizando os conceitos aprendidos
