@@ -37,7 +37,7 @@ A disciplina tem como objetivo desenvolver a lógica de programação e introduz
 - ### 📝 Atividades Realizadas
 
 - **PBL 01**: System.Out.Println & concatenação de variáveis
-- **PBL 02**: Introdução às estruturas condicionais
-- **PBL 03**: Laços de repetição e manipulação de arrays
-- **PBL 04**: Modularização e criação de métodos
+- **PBL 02**: Lista de Médias e Notas (atribuição de variáveis e Cálculos)
+- **PBL 03**: Calculadora Básica
+- **PBL 04**: java.utils.Scanner
 - **Projeto Final**: Desenvolvimento de uma aplicação utilizando os conceitos aprendidos
