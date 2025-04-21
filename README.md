@@ -40,4 +40,17 @@ A disciplina tem como objetivo desenvolver a lógica de programação e introduz
 - **PBL 02**: Lista de Médias e Notas (atribuição de variáveis e Cálculos)
 - **PBL 03**: Calculadora Básica
 - **PBL 04**: java.utils.Scanner
-- **Projeto Final**: Desenvolvimento de uma aplicação utilizando os conceitos aprendidos
+- **PBL 05**: Calculadora/Conversora Trigonométrica
+- **PBL 06**: Estudo da Esfera
+- **PBL 07**: Unidade de LOGIN com If -Else Composto (Aninhado)
+- **PBL 08**: Fluxograma com Condicional
+- **PBL 09**: Sistema de Reserva de Passagens (com Switch-Case)
+- **PBL 10**: Fibonacci (Repetição)
+- **PBL 11**: Vetores e Estruturas de Repetição
+- **PBL 12**: Cálculos com Estrutura de Repetição
+- **PBL 13**: Sistema de Gestão Financeira Pessoal
+- **PBL 14**: Modularização do Sistema de Gestão Financeira Pessoal
+- **PBL Extra**: Manipulação de Arquivos
+- **PBL 15**: Classe CADASTRO do Projeto Final
+- **PBL 16**: Classe LOGIN do Projeto Final
+- **PBL 17**: Classe CRIPTOGRAFIA do Projeto Final
