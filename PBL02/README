@@ -1,0 +1,16 @@
+PBL 02 - Lista de Médias e Notas
+🎯 Objetivo
+Trabalhar com atribuição de variáveis, operações matemáticas e exibição formatada de informações no console, usando conceitos básicos da linguagem Java.
+
+📌 Instruções
+Crie um programa Java que:
+
+Defina variáveis para nome, matrícula, nota 1 e nota 2 de 3 alunos.
+
+Calcule a média ponderada de cada aluno, considerando:
+
+40% da nota 1
+
+60% da nota 2
+
+Exiba no console a matrícula, o nome e a média final de cada aluno.
