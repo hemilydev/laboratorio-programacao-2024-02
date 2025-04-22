@@ -29,3 +29,8 @@ Desenvolver um programa em Java que calcula propriedades geométricas de uma esf
 - **Área do setor circular**: `A = (ângulo / 360) × πr²`
 - **Área do triângulo inscrito** *(aproximação)*: `A = 0.5 × r²`
 - **Área do triângulo circunscrito** *(lados iguais ao diâmetro)*:
+
+## 🎓 Objetivos de Aprendizagem
+- Aplicar fórmulas geométricas básicas da esfera.
+- Utilizar entrada e saída de dados com `Scanner`.
+- Usar funções matemáticas da classe `Math` em Java.
