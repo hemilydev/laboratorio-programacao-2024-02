@@ -1,4 +1,4 @@
-# PBL 08 - Fluxograma com Condicional 🌀
+# PBL 08 - Fluxograma com Condicional
 
 ## 🎯 Objetivo
 Desenvolver um programa em Java que percorre um fluxograma condicional, onde o usuário responde a perguntas sobre seu relacionamento com uma pessoa, e dependendo das respostas, o programa segue diferentes caminhos e oferece respostas variadas.
