@@ -5,10 +5,13 @@ public class PBL10 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite a sequência de Fibonacci: ");
+        
         int qtd = scanner.nextInt();
 
         System.out.print("Utilizando for: ");
+        
         int n1 = 0, n2 = 1;
+        
         for (int i = 0; i < qtd; i++) {
             System.out.print(n1);
             if (i < qtd - 1) {
