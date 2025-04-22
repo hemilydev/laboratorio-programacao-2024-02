@@ -1,4 +1,4 @@
-# PBL 13 - Controle de Despesas com Listas de Listas e Vetores
+# PBL 13 - Sistema de Gestão Financeira Pessoal
 
 ## 🎯 Objetivo
 Desenvolver um sistema simples em Java que simula o controle de despesas pessoais para até 5 pessoas, utilizando listas de listas e vetores para representar categorias e meses de gastos.
