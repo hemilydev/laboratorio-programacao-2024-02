@@ -1,4 +1,4 @@
-# PBL 10 - Fibonacci (Repetição) 🔢
+# PBL 10 - Fibonacci (Repetição)
 
 ## 🎯 Objetivo
 Criar um programa em Java que calcule e exiba os primeiros N elementos da sequência de Fibonacci, utilizando diferentes tipos de loops (While, Do While e For). Os números serão apresentados separados por vírgula, e o último número será seguido por um ponto.
