@@ -1,4 +1,4 @@
-# PBL 11 - Vetores e Estruturas de Repetição 🧮🔁
+# PBL 11 - Vetores e Estruturas de Repetição
 
 ## 🎯 Objetivo
 Criar um programa em Java que permita cadastrar o nome e a idade de múltiplas pessoas, utilizando vetores e estruturas de repetição para armazenar e exibir os dados.
