@@ -54,3 +54,31 @@ A disciplina tem como objetivo desenvolver a lógica de programação e introduz
 - **PBL 15**: Classe CADASTRO do Projeto Final
 - **PBL 16**: Classe LOGIN do Projeto Final
 - **PBL 17**: Classe CRIPTOGRAFIA do Projeto Final
+
+---
+
+### ⚙️ Como Rodar os Exercícios
+
+1. **Instalar o Java**:
+   - Certifique-se de que o **Java 8+** esteja instalado em seu sistema.
+   - Verifique a instalação do Java com o comando `java -version`.
+
+2. **Compilando e Executando**:
+   - Cada exercício está em uma pasta separada, com o código correspondente.
+   - Para rodar um exercício, navegue até a pasta e use os comandos:
+     ```
+     javac NomeDoArquivo.java
+     java NomeDoArquivo
+     ```
+
+---
+
+### 📜 Licença
+
+Este repositório é para fins acadêmicos e não possui uma licença oficial. Os materiais podem ser usados para fins educacionais e de estudo.
+
+---
+
+### 🤝 Contribuindo
+
+Se você deseja contribuir para este repositório, sinta-se à vontade para fazer um **fork**, criar um **branch**, e submeter um **pull request** com suas melhorias ou correções.
